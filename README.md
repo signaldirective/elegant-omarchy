@@ -1,4 +1,4 @@
-# Vaporwave
+# Elegant Omarchy
 
 A dark Omarchy theme inspired by Elegant-Brit by fmrbpensador, which itself was  
 based on Elegant One by Dzakusek. To the best of my knowledge, Elegant-Brit was   
