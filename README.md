@@ -4,7 +4,7 @@ A dark Omarchy theme inspired by Elegant-Brit by fmrbpensador, which itself was
 based on Elegant One by Dzakusek. To the best of my knowledge, Elegant-Brit was   
 abandoned circa 2012 so this is a modernized Omarchy resurraction of Elegance..
 
-![Elegant Omarchy wallpaper](backgrounds/elegant_omarchy.pmg)
+![Elegant Omarchy wallpaper](backgrounds/elegant_omarchy.png)
 
 ## Install
 
